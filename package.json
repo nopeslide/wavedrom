@@ -56,7 +56,7 @@
     "yargs": "^14.2.0"
   },
   "dependencies": {
-    "bit-field": "^1.0.3",
+    "bit-field": "git://github.com/nopeslide/bitfield.git",
     "onml": "^1.1.0",
     "tspan": "^0.3.6"
   },
